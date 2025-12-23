@@ -6,7 +6,7 @@ namespace Assignment01
 {
     internal class Ques02
     {
-        public static void Main(string[] args)
+        public static void Main2(string[] args)
         {
             int a, b;
             string choice;
